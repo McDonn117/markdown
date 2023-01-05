@@ -44,7 +44,7 @@ export default function App() {
   return (
     <div className="container-fluid p-5 bg-secondary">
       <div class="d-sm-flex align-items-center justify-content-center mb-4">
-        <h1 class="h1 mb-2 text-gray-800 text-center">McDonn Markdown</h1>
+        <h1 class="h1 mb-2 text-light text-center">McDonn Markdown</h1>
       </div>
       <div className="row">
         <div className="col-lg-5 pb-5">
